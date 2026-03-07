@@ -21,7 +21,7 @@ USB Device Mode.
 SPDIF to connect to DAC to build sytnths.
 
 
-(Blog with Internal Images)[https://groovixlabs.com/groovixlabs/blog_v3.php]
+[Blog with Internal Images](https://groovixlabs.com/groovixlabs/blog_v3.php)
 
 
-(More Information)[https://groovixlabs.com/groovixlabs/hardware.php]
+[More Information](https://groovixlabs.com/groovixlabs/hardware.php)
