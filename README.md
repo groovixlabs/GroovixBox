@@ -23,8 +23,6 @@ SPDIF to connect to DAC to build sytnths.
 
 [Video Demonstration](https://www.youtube.com/watch?v=JWmmzE0qVqo)
 
+[More Information](https://groovixlabs.com/groovixlabs/hardware.html)
 
 [Blog with Internal Images](https://groovixlabs.com/groovixlabs/groovixbox_blog.html)
-
-
-[More Information](https://groovixlabs.com/groovixlabs/hardware.html)
